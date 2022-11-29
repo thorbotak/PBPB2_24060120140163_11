@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Sony Ericsson Xperia PLAY merupakan salah satu produksi dari Sony, yang telah dikenal sejak lama sebagai merek penghasil barang elektronik berkualitas</string>
+    <string name="content_specs_display">480 x 854 pixels, 16:9 ratio (~245 ppi density)
+            3088 x 1440 (Quad HD+)</string>
+    <string name="content_specs_size">4.0 inches, 44.1 cm2 (~59.8% screen-to-body ratio) 228g</string>
+    <string name="content_specs_battery">Type : Removable Li-Ion 1500 mAh battery
+            Stand-by:	Up to 425 h (2G) / Up to 413 h (3G)
+            Talk time:	Up to 8 h 25 min (2G) / Up to 6 h 25 min (3G)
+            Music play:	Up to 31 h
+    </string>
+    <string name="stock">Stock tersisa 1 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Muhammad Kurnia Fathurahman</string>
+    <string name="buy">Beli</string>
+    <string name="hubungi_penjual">Hubungi Penjual</string>
+    <string name="dummy_value">Rp500,000</string>
+    <string name="dummy_photos">1 photos</string>
+    <string name="berhasil_beli">Produk Telah Berhasil Dibeli</string>
+</resources>
